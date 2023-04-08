@@ -1,0 +1,4 @@
+Global Impact of feature 1 (x2) on responsivity of feature 0 = 35.0200 (+/- 1.5911)
+Global Impact of feature 2 (x3) on responsivity of feature 0 = 70.2400 (+/- 2.2782)
+Global Impact of feature 3 (x4) on responsivity of feature 0 = 15.8600 (+/- 1.2265)
+Global Impact of feature 4 (x5) on responsivity of feature 0 = 0.8200 (+/- 0.3736)

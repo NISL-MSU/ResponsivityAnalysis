@@ -1,0 +1,4 @@
+Overall MSE 0.006784 (+/- 0.001324)
+Overall PICP 0.994444 (+/- 0.003370)
+Overall MPIW 0.624564 (+/- 0.015191)
+Overall DIFF nan (+/- nan)

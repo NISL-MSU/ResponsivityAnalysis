@@ -1,0 +1,6 @@
+Global Impact of feature 1 (slope) on responsivity of feature 0 = 13.0600 (+/- 4.9800)
+Global Impact of feature 2 (tpi) on responsivity of feature 0 = 82.5400 (+/- 9.5574)
+Global Impact of feature 3 (aspect_rad) on responsivity of feature 0 = 1.7800 (+/- 1.4239)
+Global Impact of feature 4 (prec_cy_g) on responsivity of feature 0 = 5.5000 (+/- 7.0275)
+Global Impact of feature 5 (vv_cy_f) on responsivity of feature 0 = 8.2800 (+/- 5.3113)
+Global Impact of feature 6 (vh_cy_f) on responsivity of feature 0 = 0.8000 (+/- 0.6387)
