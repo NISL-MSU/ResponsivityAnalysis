@@ -14,7 +14,7 @@ from sklearn.model_selection import train_test_split
 
 class PIGenerator:
 
-    def __init__(self, dataset='Synth', method='DualAQD'):
+    def __init__(self, dataset='Synth', method='MCDropout'):
         """Class used for training the NNs
         :param dataset: Name of the dataset. Options: 'Synth', 'FieldA', or 'FieldB'/
         :param method: Method used for generating prediction intervals. Options: 'MC-Dropout' or 'DualAQD'. For the CFE
@@ -145,7 +145,7 @@ class PIGenerator:
         # Get outputs using trained model
         yout = self.model.evaluateFoldUncertainty(valxn=Xval, maxs=None, mins=None, batch_size=32, MC_samples=50)
         yout = np.array(yout)
-        if self.method in ['AQD', 'DualAQD']:
+        if self.method in ['DualAQD']:
             # Obtain upper and lower bounds
             if self.modelType == 'NN':
                 y_u = np.mean(yout[:, 0], axis=1)
