@@ -30,7 +30,7 @@ characteristics of each field.
 
 <img src=https://raw.githubusercontent.com/GiorgioMorales/ResponsivityAnalysis/master/images/resp.jpg alt="alt text" width=300 height=400>
 
-Please read our [IJCNN paper](https://arxiv.org/pdf/2304.04063.pdf) for more information.
+Please read our [IJCNN paper](https://arxiv.org/abs/2304.04063) for more information.
 
 
 ## Usage
